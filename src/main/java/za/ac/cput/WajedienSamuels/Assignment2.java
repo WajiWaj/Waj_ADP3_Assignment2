@@ -25,6 +25,7 @@ public class Assignment2 {
         map.put( "Second" , "Two");
         map.put( "Third" , "Three");
 
+        //Display list, set and map
         System.out.println("List" + list);
         System.out.println("Set" + set);
         System.out.println("Map" + map);
