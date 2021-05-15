@@ -10,7 +10,7 @@ public class Assignment2 {
         Set<Integer> set = new HashSet<>();
         HashMap<String, String> map = new HashMap<>();
 
-        //Added Strings to list
+        //Added Strings to the list
         list.add("First");
         list.add("Second");
         list.add("Third");
